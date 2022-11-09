@@ -141,7 +141,6 @@ const tableFilter = (field) => {
 
 <template>
     <main class="w-[70vw] mt-16">
-        <!-- <h1>Musee</h1> -->
 
         <div class="">
             <div class="">
