@@ -184,6 +184,7 @@ const tableFilter = (field) => {
                         </tr>
                     </tbody>
                 </table>
+                <h2 class="dark:text-white text-center lg:mx-40 text-xl" v-if="!display">Augmenter votre taille d'écran pour pouvoir trier les données à l'aide d'un tableau</h2>
             </div>
         </div>
 
