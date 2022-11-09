@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import MapEolienne from '../components/MapInstallationsEolienne.vue'
 import MapHydrolique from '../components/MapInstallationsHydrolique.vue'
 </script>
 

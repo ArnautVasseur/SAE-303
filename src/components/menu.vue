@@ -9,13 +9,6 @@
           </RouterLink>
         </li>
         <li class="list">
-          <RouterLink to="/map">
-            <span class="icon"><i class="fa-solid fa-map dark:text-white hover:text-black"></i></span>
-            <span class="title border-black dark:border-[#89ec5b] border-2 dark:text-white dark:bg-[#222] bg-[#eee]">Carte des Installations Éoliennes</span>
-            <span class="box w-16 h-16 -mt-1 border-2 border-transparent hover:border-[#89ec5b] absolute rounded-full"></span>
-          </RouterLink>
-        </li>
-        <li class="list">
           <RouterLink to="/graphiques">
             <span class="icon"><i class="fa-solid fa-chart-simple dark:text-white"></i></span>
             <span class="title border-black dark:border-[#eb5a5a] border-2 dark:text-white dark:bg-[#222] bg-[#eee]">Graphiques</span>
@@ -23,10 +16,24 @@
           </RouterLink>
         </li>
         <li class="list">
+          <RouterLink to="/mapE">
+            <span class="icon"><i class="fa-solid fa-map dark:text-white hover:text-black"></i></span>
+            <span class="title border-black dark:border-[#89ec5b] border-2 dark:text-white dark:bg-[#222] bg-[#eee]">Carte des Installations Éoliennes</span>
+            <span class="box w-16 h-16 -mt-1 border-2 border-transparent hover:border-[#89ec5b] absolute rounded-full"></span>
+          </RouterLink>
+        </li>
+        <li class="list">
+          <RouterLink to="/mapH">
+            <span class="icon"><i class="fa-solid fa-map dark:text-white hover:text-black"></i></span>
+            <span class="title border-black dark:border-[#5b89eb] border-2 dark:text-white dark:bg-[#222] bg-[#eee]">Carte des Installations Hydroliques</span>
+            <span class="box w-16 h-16 -mt-1 border-2 border-transparent hover:border-[#5b89eb] absolute rounded-full"></span>
+          </RouterLink>
+        </li>
+        <li class="list">
           <RouterLink to="/table">
             <span class="icon"><i class="fa-solid fa-table dark:text-white"></i></span>
-            <span class="title border-black dark:border-[#5b89eb] border-2 dark:text-white dark:bg-[#222] bg-[#eee]">Détail Consommation par Région</span>
-            <span class="box w-16 h-16 -mt-1 border-2 border-transparent hover:border-[#5b89eb] absolute rounded-b-full"></span>
+            <span class="title border-black dark:border-[#DF40F9] border-2 dark:text-white dark:bg-[#222] bg-[#eee]">Détail Consommation par Région</span>
+            <span class="box w-16 h-16 -mt-1 border-2 border-transparent hover:border-[#DF40F9] absolute rounded-b-full"></span>
           </RouterLink>
         </li>
       </ul>
@@ -39,7 +46,7 @@
     top: 200px;
     right: 30px;
     width: 70px;
-    height: 280px;
+    height: 350px;
     background-color: white;
     border-radius: 35px;
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);

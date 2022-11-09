@@ -7,7 +7,7 @@ import PolarArea from '../components/PolarArea.vue'
 </script>
 
 <template>
-    <div class="flex flex-col lg:p-20 pl-[60px] pt-[60px] pb-[60px] mt-16">
+    <div class="flex flex-col lg:p-20 pl-[60px] pt-[60px] pb-[60px] pr-[30px] mt-16">
         <h1 class="text-4xl text-center dark:text-white mb-16">Graphiques et explications</h1>
         <h2 class="text-xl dark:text-white mb-10">Consommation annuelle par région d'électricité</h2>
         <div class="flex lg:flex-row flex-col gap-5 items-center mb-16">

@@ -49,7 +49,7 @@ let modeSelected = ref()
 modeSelected.value = false
 
 let baseColor = ref()
-baseColor.value = 'rgba(0,0,255,#deg#)'
+baseColor.value = 'rgba(223, 64, 249,#deg#)'
 
 
 let fields = ref()
