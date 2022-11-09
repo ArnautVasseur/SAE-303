@@ -14,7 +14,7 @@
                     <h3 class="text-xl font-medium my-3 dark:text-white">Cartes</h3>
                     <p class="text-base dark:text-white">Lorem Ipsum</p>
                 </div>
-                <RouterLink to="/map" class="button bg-[#89ec5b] w-44 h-10 rounded-xl flex justify-center items-center">
+                <RouterLink to="/map" class="button bg-[#89ec5b] w-44 h-10 rounded-xl flex justify-center items-center shadow-lg">
                     En savoir plus
                 </RouterLink>
             </div>
@@ -29,7 +29,7 @@
                     <h3 class="text-xl font-medium my-3 dark:text-white">Graphiques</h3>
                     <p class="text-base dark:text-white">Lorem Ipsum</p>
                 </div>
-                <RouterLink to="/graphiques" class="button bg-[#eb5a5a] w-44 h-10 rounded-xl flex justify-center items-center">
+                <RouterLink to="/graphiques" class="button bg-[#eb5a5a] w-44 h-10 rounded-xl flex justify-center items-center shadow-lg">
                     En savoir plus
                 </RouterLink>
             </div>
@@ -44,7 +44,7 @@
                     <h3 class="text-xl font-medium my-3 dark:text-white">Table de données</h3>
                     <p class="text-base dark:text-white">Lorem Ipsum</p>
                 </div>
-                <RouterLink to="/table" class="button bg-[#5b89eb] w-44 h-10 rounded-xl flex justify-center items-center">
+                <RouterLink to="/table" class="button bg-[#5b89eb] w-44 h-10 rounded-xl flex justify-center items-center shadow-lg">
                     En savoir plus
                 </RouterLink>
             </div>
