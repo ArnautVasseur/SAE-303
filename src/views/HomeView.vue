@@ -6,7 +6,7 @@
     <div class="container relative flex justify-center items-center flex-wrap px-16 gap-16 mt-32 lg:mt-0">
 
         <div class="box border-4 border-[#89ec5b] relative w-[300px] h-[350px] dark:bg-[#222] bg-[#fff] flex justify-center items-center rounded-3xl duration-300 ease-in-out hover:border-black">
-            <div class="content relative flex justify-center items-center flex-col text-center gap-5 py-5 w-full h-full overflow-hidden rounded-3xl">
+            <div class="content relative flex justify-center items-center flex-col text-center gap-5 py-5 w-full h-full overflow-hidden rounded-[20px]">
                 <div class="icon1 text-[#89ec5b] hover:text-black w-20 h-20 flex justify-center items-center text-4xl bg-[#222] duration-300 ease-in-out shadow-simple_green hover:bg-[#89ec5b] rounded-3xl">
                     <RouterLink to="/map"><i class="fa-solid fa-map"></i></RouterLink>
                 </div>
@@ -21,7 +21,7 @@
         </div>
 
         <div class="box border-4 border-[#eb5a5a] relative w-[300px] h-[350px] dark:bg-[#222] bg-[#fff] flex justify-center items-center rounded-3xl duration-300 ease-in-out hover:border-black">
-            <div class="content relative flex justify-center items-center flex-col text-center gap-5 py-5 w-full h-full overflow-hidden rounded-3xl">
+            <div class="content relative flex justify-center items-center flex-col text-center gap-5 py-5 w-full h-full overflow-hidden rounded-[20px]">
                 <div class="icon2 text-[#eb5a5a] hover:text-black w-20 h-20 flex justify-center items-center text-4xl bg-[#222] duration-300 ease-in-out shadow-simple_red hover:bg-[#eb5a5a] rounded-3xl">
                     <RouterLink to="/graphiques"><i class="fa-solid fa-chart-simple"></i></RouterLink>
                 </div>
@@ -36,7 +36,7 @@
         </div>
 
         <div class="box border-4 border-[#5b89eb] relative w-[300px] h-[350px] dark:bg-[#222] bg-[#fff] flex justify-center items-center rounded-3xl duration-300 ease-in-out hover:border-black">
-            <div class="content relative flex justify-center items-center flex-col text-center gap-5 py-5 w-full h-full overflow-hidden rounded-3xl">
+            <div class="content relative flex justify-center items-center flex-col text-center gap-5 py-5 w-full h-full overflow-hidden rounded-[20px]">
                 <div class="icon3 text-[#5b89eb] hover:text-black w-20 h-20 flex justify-center items-center text-4xl bg-[#222] duration-300 ease-in-out shadow-simple_blue hover:bg-[#5b89eb] rounded-3xl">
                     <RouterLink to="/table"><i class="fa-solid fa-map"></i></RouterLink>
                 </div>
